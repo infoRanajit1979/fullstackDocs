@@ -1,0 +1,3 @@
+online dev tool with vite - https://vite.new/
+
+Vs code setup - https://github.com/john-smilga/VS-CODE-SETUP
