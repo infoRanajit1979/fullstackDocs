@@ -1,0 +1,4 @@
+// Ctrl+ / - to comment
+//Ctrl+K then u to un comment
+
+https://marketplace.visualstudio.com/items?itemName=rodrigovallades.es7-react-js-snippets
