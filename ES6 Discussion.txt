@@ -1,0 +1,8 @@
+https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
+
+return statement is optional in arrorw function similar to normal js fn
+Arrow functions do not create their own this binding
+Arrow functions cannot be used as constructors
+Arrow functions cannot be declared|old anonymous functions are somewhat similar to arrow fn
+
+fn/var variable/classes can be hoisted[* call before declering ]
